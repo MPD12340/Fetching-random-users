@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+.loading{
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: monospace;
+}
+
+.btn{
+  outline:none;
+  background-color: blueviolet;
+  color: white;
+  padding: 0.5rem 0.5rem;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+
+}
+.btn-container{
+  text-align: center;
+}
+
+.hide-btn{
+  display: none;
+}
